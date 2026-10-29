@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "published": false,
+  "title": "Project title",
+  "description": "A short description for the lab project index.",
+  "authors": [
+    "Author One"
+  ],
+  "year": 2026,
+  "url": "https://cogrob-tuni.github.io/your-repository/",
+  "repository": "https://github.com/cogrob-tuni/your-repository/",
+  "image": "your-image-path",
+  "order": 100
+}
